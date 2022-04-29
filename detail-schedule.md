@@ -7,6 +7,6 @@
 |             |       |         || Lab Work     | 09:15 |          || Lab Work     | 09:15 |    |
 |             |       |         || Group        | 11:00 |   R            ||Group        | 11:00 | SQL |
 | Lunch        | 12:00 |        || Lunch        | 12:00 |           || Lunch        | 12:00 |    |
-| Kick-off     | 13:00 | Mission       || Lab Work     | 13:00 |           ||  Lab Work     | 13:00 |    | 
+| Kick-off     | 13:00 | My approach & your Mission       || Lab Work     | 13:00 |           ||  Lab Work     | 13:00 |    | 
 | Lab Work     | 13:15 |    ||             |       |                ||              |       |         | 
-| Group        | 15:00 | VS Code & Bash       || Group        | 15:00 |       python        || Group        | 15:00 |    overflow    |     
+| Group        | 15:00 | Hello world and VS Code & Bash       || Group        | 15:00 |       python        || Group        | 15:00 |    overflow    |     
